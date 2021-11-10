@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { PhotoViewerComponent } from './photo-viewer/photo-viewer.component';
 
 @Component({
   selector: 'app-root',
